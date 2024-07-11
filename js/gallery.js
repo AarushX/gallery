@@ -9,7 +9,7 @@ class Config {
     this.spacing = opts.spacing || 10;
     this.shuffle = opts.shuffle || false;
     this.columns = opts.columns || 3;
-  };
+  }
 
   photos(album) {
     return this.data[album];
@@ -29,11 +29,11 @@ class Renderer {
   render(config) {}
 
   getPhotos(config, photos) {
-    var photos = photos.map((p) => { return new Photo(p); });
+    var photos = photos.map((p) => new Photo(p));
     if (config.shuffle) {
       shuffle(photos);
     }
-    return photos
+    return photos;
   }
 
   rootElem() {
@@ -61,12 +61,13 @@ class Renderer {
     if (photo.isCompressed()) {
       // Lazy loading + a compressed image
       image.setAttribute("data-original", photo.originalSrc());
-      image.setAttribute("data-src", photo.compresedSrc());
+      image.setAttribute("data-src", photo.compressedSrc());
       image.src = photo.placeholderSrc();
       image.classList.add('lazyload');
     } else {
-      // Original
-      image.src = photo.src();
+      // Lazy loading original
+      image.setAttribute("data-src", photo.src());
+      image.classList.add('lazyload');
     }
 
     return image;
@@ -79,10 +80,8 @@ class Renderer {
 class VerticalRenderer extends Renderer {
   render(config) {
     for (var section in config.data) {
-      var section = this.createSection(config,
-        section,
-        this.getPhotos(config, config.photos(section)));
-      this.rootElem().appendChild(section);
+      var sectionElem = this.createSection(config, section, this.getPhotos(config, config.photos(section)));
+      this.rootElem().appendChild(sectionElem);
     }
   }
 
@@ -91,8 +90,8 @@ class VerticalRenderer extends Renderer {
    */
   createSection(config, section, photos) {
     var sectionElem = this.createHeader(section);
-    var length = config.columns
-    var width = (this._currentWidth - config.spacing * (config.columns-1)) * 1.0 / config.columns;
+    var length = config.columns;
+    var width = (this._currentWidth - config.spacing * (config.columns - 1)) * 1.0 / config.columns;
 
     var stacks = [];
     for (var i = 0; i < config.columns; i++) {
@@ -100,18 +99,18 @@ class VerticalRenderer extends Renderer {
     }
     var heights = new Array(config.columns).fill(0);
 
-
     for (var i = 0; i < photos.length; i++) {
       var nextPhoto = photos[i];
       var index = this.getSmallestStack(heights);
       stacks[index].push(nextPhoto);
-      heights[index] = heights[index] + nextPhoto.height(width);
+      heights[index] += nextPhoto.height(width);
     }
 
     var columnElements = document.createElement('div');
     columnElements.style.columnCount = config.columns;
     columnElements.style.columnGap = px(config.spacing);
 
+    var fragment = document.createDocumentFragment();
     for (var i = 0; i < stacks.length; i++) {
       var column = document.createElement('div');
       for (var j = 0; j < stacks[i].length; j++) {
@@ -120,9 +119,9 @@ class VerticalRenderer extends Renderer {
         column.appendChild(photoElement);
       }
       column.style.width = px(width);
-      columnElements.appendChild(column);
+      fragment.appendChild(column);
     }
-
+    columnElements.appendChild(fragment);
     sectionElem.appendChild(columnElements);
 
     return sectionElem;
@@ -132,10 +131,7 @@ class VerticalRenderer extends Renderer {
    * Creates one photo
    */
   createPhotoElement(photo, width, config) {
-    return this.createImageElement(photo,
-                                   px(width),
-                                   px(photo.height(width)),
-                                   px(config.spacing));
+    return this.createImageElement(photo, px(width), px(photo.height(width)), px(config.spacing));
   }
 
   /**
@@ -164,10 +160,8 @@ class VerticalRenderer extends Renderer {
 class SquareRenderer extends Renderer {
   render(config) {
     for (var section in config.data) {
-      var section = this.createSection(config,
-        section,
-        this.getPhotos(config, config.photos(section)));
-      this.rootElem().appendChild(section);
+      var sectionElem = this.createSection(config, section, this.getPhotos(config, config.photos(section)));
+      this.rootElem().appendChild(sectionElem);
     }
   }
 
@@ -179,8 +173,7 @@ class SquareRenderer extends Renderer {
 
     // In column format, we want to precompute the height of each cell, so that
     // the last row can have a matching width and align itself to rows above.
-    var length = config.columns ||
-      Math.ceil((this._currentWidth + config.spacing) / (config.maxHeight + config.spacing));
+    var length = config.columns || Math.ceil((this._currentWidth + config.spacing) / (config.maxHeight + config.spacing));
     var height = this.calculateHeight(config, length);
 
     while (photos.length > 0) {
@@ -214,7 +207,7 @@ class SquareRenderer extends Renderer {
       image.style.backgroundImage = "url('" + photo.src() + "')";
       image.style.backgroundRepeat = 'no-repeat';
       image.style.backgroundPosition = 'center';
-      image.style.backgroundSize = 'cover'
+      image.style.backgroundSize = 'cover';
 
       image.style.width = px(height); // Square photo
       image.style.height = px(height);
@@ -239,9 +232,9 @@ class SquareRenderer extends Renderer {
    */
   calculateHeight(config, length) {
     if (config.columns) {
-      return (this._currentWidth - (config.columns-1) * config.spacing) / config.columns;
+      return (this._currentWidth - (config.columns - 1) * config.spacing) / config.columns;
     }
-    return (this._currentWidth - (length-1) * config.spacing) / length;
+    return (this._currentWidth - (length - 1) * config.spacing) / length;
   }
 }
 
@@ -251,10 +244,8 @@ class SquareRenderer extends Renderer {
 class HorizontalRenderer extends Renderer {
   render(config) {
     for (var section in config.data) {
-      var section = this.createSection(config,
-        section,
-        this.getPhotos(config, config.photos(section)));
-      this.rootElem().appendChild(section);
+      var sectionElem = this.createSection(config, section, this.getPhotos(config, config.photos(section)));
+      this.rootElem().appendChild(sectionElem);
     }
   }
 
@@ -293,7 +284,7 @@ class HorizontalRenderer extends Renderer {
   /**
    * Creates a row of photos with fixed height
    */
-  createRow(config, section, photos, isIncomplete=false) {
+  createRow(config, section, photos, isIncomplete = false) {
     var rowElem = document.createElement('div');
     rowElem.className = 'sectionrow';
     rowElem.style.marginBottom = px(config.spacing);
@@ -317,10 +308,7 @@ class HorizontalRenderer extends Renderer {
 
     for (var i = 0; i < photos.length; i++) {
       var photo = photos[i];
-      var image = this.createImageElement(photo,
-                                          px(photo.width(finalHeight)),
-                                          px(finalHeight),
-                                          px(0));
+      var image = this.createImageElement(photo, px(photo.width(finalHeight)), px(finalHeight), px(0));
 
       if (i !== 0) {
         image.style.marginLeft = px(config.spacing);
@@ -331,7 +319,6 @@ class HorizontalRenderer extends Renderer {
     return rowElem;
   }
 }
-
 
 /**
  * Wrapper for a photo
@@ -346,7 +333,7 @@ class Photo {
     this.compressed_path = p.compressed_path;
 
     this.aspectRatio = this._width / parseFloat(this._height);
-  };
+  }
 
   src() {
     return this.path;
@@ -360,7 +347,7 @@ class Photo {
     return this.path;
   }
 
-  compresedSrc() {
+  compressedSrc() {
     return this.compressed_path;
   }
 
