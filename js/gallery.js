@@ -67,6 +67,11 @@ class Renderer {
     } else {
       // Original
       image.src = photo.src();
+
+      image.setAttribute("data-original", photo.originalSrc());
+      image.setAttribute("data-src", photo.src());
+      image.src = photo.placeholderSrc();
+      image.classList.add('lazyload');
     }
 
     return image;
