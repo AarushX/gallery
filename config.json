@@ -1,457 +1,456 @@
 {
-  "urban": [
-    {
-      "width": 2708,
-      "height": 1188,
-      "path": "./photos/urban/image copy 26.png",
-      "compressed_path": "./photos/urban/image copy 26.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 26.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/urban/image copy 8.png",
-      "compressed_path": "./photos/urban/image copy 8.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 8.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1806,
-      "path": "./photos/urban/image copy 19.png",
-      "compressed_path": "./photos/urban/image copy 19.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 19.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1088,
-      "path": "./photos/urban/image copy 25.png",
-      "compressed_path": "./photos/urban/image copy 25.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 25.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 610,
-      "path": "./photos/urban/image copy 24.png",
-      "compressed_path": "./photos/urban/image copy 24.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 24.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1808,
-      "path": "./photos/urban/image copy 18.png",
-      "compressed_path": "./photos/urban/image copy 18.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 18.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/urban/image copy 9.png",
-      "compressed_path": "./photos/urban/image copy 9.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 9.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1808,
-      "path": "./photos/urban/image copy 20.png",
-      "compressed_path": "./photos/urban/image copy 20.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 20.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1808,
-      "path": "./photos/urban/image copy 21.png",
-      "compressed_path": "./photos/urban/image copy 21.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 21.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1806,
-      "path": "./photos/urban/image copy 23.png",
-      "compressed_path": "./photos/urban/image copy 23.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 23.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1808,
-      "path": "./photos/urban/image copy 22.png",
-      "compressed_path": "./photos/urban/image copy 22.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 22.placeholder.png"
-    },
-    {
-      "width": 1552,
-      "height": 2069,
-      "path": "./photos/urban/image copy.png",
-      "compressed_path": "./photos/urban/image copy.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy.placeholder.png"
-    },
-    {
-      "width": 2760,
-      "height": 2070,
-      "path": "./photos/urban/image copy 2.png",
-      "compressed_path": "./photos/urban/image copy 2.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 2.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/urban/image copy 13.png",
-      "compressed_path": "./photos/urban/image copy 13.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 13.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/urban/image copy 12.png",
-      "compressed_path": "./photos/urban/image copy 12.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 12.placeholder.png"
-    },
-    {
-      "width": 1552,
-      "height": 2069,
-      "path": "./photos/urban/image copy 3.png",
-      "compressed_path": "./photos/urban/image copy 3.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 3.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/urban/image copy 10.png",
-      "compressed_path": "./photos/urban/image copy 10.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 10.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/urban/image copy 11.png",
-      "compressed_path": "./photos/urban/image copy 11.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 11.placeholder.png"
-    },
-    {
-      "width": 1280,
-      "height": 960,
-      "path": "./photos/urban/urban1.jpg",
-      "compressed_path": "./photos/urban/urban1.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/urban1.placeholder.jpg"
-    },
-    {
-      "width": 3108,
-      "height": 2070,
-      "path": "./photos/urban/image copy 4.png",
-      "compressed_path": "./photos/urban/image copy 4.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 4.placeholder.png"
-    },
-    {
-      "width": 3106,
-      "height": 2070,
-      "path": "./photos/urban/image copy 15.png",
-      "compressed_path": "./photos/urban/image copy 15.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 15.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/urban/image copy 14.png",
-      "compressed_path": "./photos/urban/image copy 14.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 14.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/urban/image copy 5.png",
-      "compressed_path": "./photos/urban/image copy 5.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 5.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/urban/image copy 7.png",
-      "compressed_path": "./photos/urban/image copy 7.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 7.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1188,
-      "path": "./photos/urban/image copy 16.png",
-      "compressed_path": "./photos/urban/image copy 16.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 16.placeholder.png"
-    },
-    {
-      "width": 1552,
-      "height": 2069,
-      "path": "./photos/urban/image.png",
-      "compressed_path": "./photos/urban/image.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1806,
-      "path": "./photos/urban/image copy 17.png",
-      "compressed_path": "./photos/urban/image copy 17.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 17.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/urban/image copy 6.png",
-      "compressed_path": "./photos/urban/image copy 6.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/urban/image copy 6.placeholder.png"
-    }
-  ],
-  "nature2": [
-    {
-      "width": 2708,
-      "height": 1806,
-      "path": "./photos/nature2/image copy 8.png",
-      "compressed_path": "./photos/nature2/image copy 8.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature2/image copy 8.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/nature2/image copy.png",
-      "compressed_path": "./photos/nature2/image copy.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature2/image copy.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/nature2/image copy 2.png",
-      "compressed_path": "./photos/nature2/image copy 2.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature2/image copy 2.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/nature2/image copy 3.png",
-      "compressed_path": "./photos/nature2/image copy 3.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature2/image copy 3.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/nature2/image copy 4.png",
-      "compressed_path": "./photos/nature2/image copy 4.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature2/image copy 4.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/nature2/image copy 5.png",
-      "compressed_path": "./photos/nature2/image copy 5.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature2/image copy 5.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1806,
-      "path": "./photos/nature2/image copy 7.png",
-      "compressed_path": "./photos/nature2/image copy 7.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature2/image copy 7.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/nature2/image.png",
-      "compressed_path": "./photos/nature2/image.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature2/image.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 1808,
-      "path": "./photos/nature2/image copy 6.png",
-      "compressed_path": "./photos/nature2/image copy 6.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature2/image copy 6.placeholder.png"
-    }
-  ],
-  "portrait": [],
-  "nature": [
-    {
-      "width": 3108,
-      "height": 2070,
-      "path": "./photos/nature/image copy 8.png",
-      "compressed_path": "./photos/nature/image copy 8.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 8.placeholder.png"
-    },
-    {
-      "width": 2708,
-      "height": 2030,
-      "path": "./photos/nature/image copy 18.png",
-      "compressed_path": "./photos/nature/image copy 18.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 18.placeholder.png"
-    },
-    {
-      "width": 1378,
-      "height": 2069,
-      "path": "./photos/nature/image copy 9.png",
-      "compressed_path": "./photos/nature/image copy 9.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 9.placeholder.png"
-    },
-    {
-      "width": 3108,
-      "height": 2070,
-      "path": "./photos/nature/image copy.png",
-      "compressed_path": "./photos/nature/image copy.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy.placeholder.png"
-    },
-    {
-      "width": 2760,
-      "height": 2070,
-      "path": "./photos/nature/image copy 2.png",
-      "compressed_path": "./photos/nature/image copy 2.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 2.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/nature/image copy 13.png",
-      "compressed_path": "./photos/nature/image copy 13.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 13.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/nature/image copy 12.png",
-      "compressed_path": "./photos/nature/image copy 12.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 12.placeholder.png"
-    },
-    {
-      "width": 3108,
-      "height": 2070,
-      "path": "./photos/nature/image copy 3.png",
-      "compressed_path": "./photos/nature/image copy 3.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 3.placeholder.png"
-    },
-    {
-      "width": 3108,
-      "height": 2070,
-      "path": "./photos/nature/image copy 10.png",
-      "compressed_path": "./photos/nature/image copy 10.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 10.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/nature/image copy 11.png",
-      "compressed_path": "./photos/nature/image copy 11.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 11.placeholder.png"
-    },
-    {
-      "width": 3108,
-      "height": 2070,
-      "path": "./photos/nature/image copy 4.png",
-      "compressed_path": "./photos/nature/image copy 4.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 4.placeholder.png"
-    },
+  "b. nature": [
     {
       "width": 2708,
       "height": 1616,
-      "path": "./photos/nature/image copy 15.png",
-      "compressed_path": "./photos/nature/image copy 15.min.png",
+      "path": "./photos/b. nature/nature_14.png",
+      "compressed_path": "./photos/b. nature/nature_14.min.png",
       "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 15.placeholder.png"
-    },
-    {
-      "width": 3100,
-      "height": 2070,
-      "path": "./photos/nature/image copy 14.png",
-      "compressed_path": "./photos/nature/image copy 14.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 14.placeholder.png"
-    },
-    {
-      "width": 3108,
-      "height": 2070,
-      "path": "./photos/nature/image copy 5.png",
-      "compressed_path": "./photos/nature/image copy 5.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 5.placeholder.png"
-    },
-    {
-      "width": 3108,
-      "height": 2070,
-      "path": "./photos/nature/image copy 7.png",
-      "compressed_path": "./photos/nature/image copy 7.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 7.placeholder.png"
+      "placeholder_path": "./photos/b. nature/nature_14.placeholder.png"
     },
     {
       "width": 2708,
       "height": 1776,
-      "path": "./photos/nature/image copy 16.png",
-      "compressed_path": "./photos/nature/image copy 16.min.png",
+      "path": "./photos/b. nature/nature_15.png",
+      "compressed_path": "./photos/b. nature/nature_15.min.png",
       "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 16.placeholder.png"
+      "placeholder_path": "./photos/b. nature/nature_15.placeholder.png"
     },
     {
-      "width": 2760,
-      "height": 2070,
-      "path": "./photos/nature/image.png",
-      "compressed_path": "./photos/nature/image.min.png",
+      "width": 2708,
+      "height": 2030,
+      "path": "./photos/b. nature/nature_17.png",
+      "compressed_path": "./photos/b. nature/nature_17.min.png",
       "compressed": false,
-      "placeholder_path": "./photos/nature/image.placeholder.png"
+      "placeholder_path": "./photos/b. nature/nature_17.placeholder.png"
     },
     {
       "width": 2708,
       "height": 1808,
-      "path": "./photos/nature/image copy 17.png",
-      "compressed_path": "./photos/nature/image copy 17.min.png",
+      "path": "./photos/b. nature/nature_16.png",
+      "compressed_path": "./photos/b. nature/nature_16.min.png",
       "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 17.placeholder.png"
+      "placeholder_path": "./photos/b. nature/nature_16.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_12.png",
+      "compressed_path": "./photos/b. nature/nature_12.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_12.placeholder.png"
     },
     {
       "width": 3108,
       "height": 2070,
-      "path": "./photos/nature/image copy 6.png",
-      "compressed_path": "./photos/nature/image copy 6.min.png",
+      "path": "./photos/b. nature/nature_9.png",
+      "compressed_path": "./photos/b. nature/nature_9.min.png",
       "compressed": false,
-      "placeholder_path": "./photos/nature/image copy 6.placeholder.png"
+      "placeholder_path": "./photos/b. nature/nature_9.placeholder.png"
+    },
+    {
+      "width": 1378,
+      "height": 2069,
+      "path": "./photos/b. nature/nature_8.png",
+      "compressed_path": "./photos/b. nature/nature_8.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_8.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_13.png",
+      "compressed_path": "./photos/b. nature/nature_13.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_13.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_11.png",
+      "compressed_path": "./photos/b. nature/nature_11.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_11.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_10.png",
+      "compressed_path": "./photos/b. nature/nature_10.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_10.placeholder.png"
+    },
+    {
+      "width": 3108,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_6.png",
+      "compressed_path": "./photos/b. nature/nature_6.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_6.placeholder.png"
+    },
+    {
+      "width": 3108,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_7.png",
+      "compressed_path": "./photos/b. nature/nature_7.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_7.placeholder.png"
+    },
+    {
+      "width": 3108,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_5.png",
+      "compressed_path": "./photos/b. nature/nature_5.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_5.placeholder.png"
+    },
+    {
+      "width": 3108,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_4.png",
+      "compressed_path": "./photos/b. nature/nature_4.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_4.placeholder.png"
+    },
+    {
+      "width": 2760,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_1.png",
+      "compressed_path": "./photos/b. nature/nature_1.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_1.placeholder.png"
+    },
+    {
+      "width": 3108,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_18.png",
+      "compressed_path": "./photos/b. nature/nature_18.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_18.placeholder.png"
+    },
+    {
+      "width": 3108,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_3.png",
+      "compressed_path": "./photos/b. nature/nature_3.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_3.placeholder.png"
+    },
+    {
+      "width": 3108,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_2.png",
+      "compressed_path": "./photos/b. nature/nature_2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_2.placeholder.png"
+    },
+    {
+      "width": 2760,
+      "height": 2070,
+      "path": "./photos/b. nature/nature_19.png",
+      "compressed_path": "./photos/b. nature/nature_19.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/b. nature/nature_19.placeholder.png"
+    }
+  ],
+  "c. urban": [
+    {
+      "width": 1552,
+      "height": 2069,
+      "path": "./photos/c. urban/urban_27.png",
+      "compressed_path": "./photos/c. urban/urban_27.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_27.placeholder.png"
+    },
+    {
+      "width": 1552,
+      "height": 2069,
+      "path": "./photos/c. urban/urban_26.png",
+      "compressed_path": "./photos/c. urban/urban_26.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_26.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1806,
+      "path": "./photos/c. urban/urban_18.png",
+      "compressed_path": "./photos/c. urban/urban_18.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_18.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1088,
+      "path": "./photos/c. urban/urban_24.png",
+      "compressed_path": "./photos/c. urban/urban_24.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_24.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1188,
+      "path": "./photos/c. urban/urban_25.png",
+      "compressed_path": "./photos/c. urban/urban_25.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_25.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1808,
+      "path": "./photos/c. urban/urban_19.png",
+      "compressed_path": "./photos/c. urban/urban_19.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_19.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1808,
+      "path": "./photos/c. urban/urban_21.png",
+      "compressed_path": "./photos/c. urban/urban_21.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_21.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1808,
+      "path": "./photos/c. urban/urban_20.png",
+      "compressed_path": "./photos/c. urban/urban_20.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_20.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1806,
+      "path": "./photos/c. urban/urban_22.png",
+      "compressed_path": "./photos/c. urban/urban_22.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_22.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 610,
+      "path": "./photos/c. urban/urban_23.png",
+      "compressed_path": "./photos/c. urban/urban_23.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_23.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_8.png",
+      "compressed_path": "./photos/c. urban/urban_8.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_8.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_9.png",
+      "compressed_path": "./photos/c. urban/urban_9.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_9.placeholder.png"
+    },
+    {
+      "width": 1552,
+      "height": 2069,
+      "path": "./photos/c. urban/urban_2.png",
+      "compressed_path": "./photos/c. urban/urban_2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_2.placeholder.png"
+    },
+    {
+      "width": 3108,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_3.png",
+      "compressed_path": "./photos/c. urban/urban_3.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_3.placeholder.png"
+    },
+    {
+      "width": 2760,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_1.png",
+      "compressed_path": "./photos/c. urban/urban_1.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_1.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_4.png",
+      "compressed_path": "./photos/c. urban/urban_4.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_4.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_5.png",
+      "compressed_path": "./photos/c. urban/urban_5.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_5.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_7.png",
+      "compressed_path": "./photos/c. urban/urban_7.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_7.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_6.png",
+      "compressed_path": "./photos/c. urban/urban_6.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_6.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_12.png",
+      "compressed_path": "./photos/c. urban/urban_12.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_12.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_13.png",
+      "compressed_path": "./photos/c. urban/urban_13.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_13.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_11.png",
+      "compressed_path": "./photos/c. urban/urban_11.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_11.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_10.png",
+      "compressed_path": "./photos/c. urban/urban_10.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_10.placeholder.png"
+    },
+    {
+      "width": 1280,
+      "height": 960,
+      "path": "./photos/c. urban/urban_28.jpg",
+      "compressed_path": "./photos/c. urban/urban_28.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_28.placeholder.jpg"
+    },
+    {
+      "width": 3106,
+      "height": 2070,
+      "path": "./photos/c. urban/urban_14.png",
+      "compressed_path": "./photos/c. urban/urban_14.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_14.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1188,
+      "path": "./photos/c. urban/urban_15.png",
+      "compressed_path": "./photos/c. urban/urban_15.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_15.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1808,
+      "path": "./photos/c. urban/urban_17.png",
+      "compressed_path": "./photos/c. urban/urban_17.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_17.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1806,
+      "path": "./photos/c. urban/urban_16.png",
+      "compressed_path": "./photos/c. urban/urban_16.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/c. urban/urban_16.placeholder.png"
+    }
+  ],
+  "a. landscape": [
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/a. landscape/landscape_9.png",
+      "compressed_path": "./photos/a. landscape/landscape_9.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_9.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/a. landscape/landscape_8.png",
+      "compressed_path": "./photos/a. landscape/landscape_8.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_8.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1808,
+      "path": "./photos/a. landscape/landscape_5.png",
+      "compressed_path": "./photos/a. landscape/landscape_5.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_5.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/a. landscape/landscape_4.png",
+      "compressed_path": "./photos/a. landscape/landscape_4.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_4.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1806,
+      "path": "./photos/a. landscape/landscape_6.png",
+      "compressed_path": "./photos/a. landscape/landscape_6.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_6.placeholder.png"
+    },
+    {
+      "width": 2708,
+      "height": 1806,
+      "path": "./photos/a. landscape/landscape_7.png",
+      "compressed_path": "./photos/a. landscape/landscape_7.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_7.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/a. landscape/landscape_3.png",
+      "compressed_path": "./photos/a. landscape/landscape_3.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_3.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/a. landscape/landscape_2.png",
+      "compressed_path": "./photos/a. landscape/landscape_2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_2.placeholder.png"
+    },
+    {
+      "width": 3100,
+      "height": 2070,
+      "path": "./photos/a. landscape/landscape_1.png",
+      "compressed_path": "./photos/a. landscape/landscape_1.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_1.placeholder.png"
     }
   ]
 }
