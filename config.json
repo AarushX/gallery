@@ -1,4 +1,184 @@
 {
+  "o. products": [
+    {
+      "width": 2428,
+      "height": 1366,
+      "path": "./photos/o. products/DSCF2568.png",
+      "compressed_path": "./photos/o. products/DSCF2568.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/o. products/DSCF2568.placeholder.png"
+    },
+    {
+      "width": 2977,
+      "height": 1985,
+      "path": "./photos/o. products/DSCF2794.png",
+      "compressed_path": "./photos/o. products/DSCF2794.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/o. products/DSCF2794.placeholder.png"
+    },
+    {
+      "width": 2521,
+      "height": 1681,
+      "path": "./photos/o. products/DSCF2796.png",
+      "compressed_path": "./photos/o. products/DSCF2796.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/o. products/DSCF2796.placeholder.png"
+    },
+    {
+      "width": 1139,
+      "height": 1423,
+      "path": "./photos/o. products/rolex_promo_1.png",
+      "compressed_path": "./photos/o. products/rolex_promo_1.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/o. products/rolex_promo_1.placeholder.png"
+    },
+    {
+      "width": 1532,
+      "height": 1914,
+      "path": "./photos/o. products/rolex_promo_2.png",
+      "compressed_path": "./photos/o. products/rolex_promo_2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/o. products/rolex_promo_2.placeholder.png"
+    },
+    {
+      "width": 1254,
+      "height": 1756,
+      "path": "./photos/o. products/rolex_promo_3.png",
+      "compressed_path": "./photos/o. products/rolex_promo_3.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/o. products/rolex_promo_3.placeholder.png"
+    }
+  ],
+  "a. landscape": [
+    {
+      "width": 3120,
+      "height": 2080,
+      "path": "./photos/a. landscape/DSCF7803-2.png",
+      "compressed_path": "./photos/a. landscape/DSCF7803-2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/DSCF7803-2.placeholder.png"
+    },
+    {
+      "width": 3120,
+      "height": 2080,
+      "path": "./photos/a. landscape/DSCF7830.png",
+      "compressed_path": "./photos/a. landscape/DSCF7830.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/DSCF7830.placeholder.png"
+    },
+    {
+      "width": 1550,
+      "height": 1035,
+      "path": "./photos/a. landscape/landscape_9.png",
+      "compressed_path": "./photos/a. landscape/landscape_9.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_9.placeholder.png"
+    },
+    {
+      "width": 1550,
+      "height": 1035,
+      "path": "./photos/a. landscape/nature_10.png",
+      "compressed_path": "./photos/a. landscape/nature_10.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/nature_10.placeholder.png"
+    },
+    {
+      "width": 3120,
+      "height": 2080,
+      "path": "./photos/a. landscape/DSCF7868.png",
+      "compressed_path": "./photos/a. landscape/DSCF7868.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/DSCF7868.placeholder.png"
+    },
+    {
+      "width": 3120,
+      "height": 2080,
+      "path": "./photos/a. landscape/DSCF7871.png",
+      "compressed_path": "./photos/a. landscape/DSCF7871.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/DSCF7871.placeholder.png"
+    },
+    {
+      "width": 3120,
+      "height": 2080,
+      "path": "./photos/a. landscape/DSCF7870.png",
+      "compressed_path": "./photos/a. landscape/DSCF7870.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/DSCF7870.placeholder.png"
+    },
+    {
+      "width": 3120,
+      "height": 2080,
+      "path": "./photos/a. landscape/DSCF7864.png",
+      "compressed_path": "./photos/a. landscape/DSCF7864.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/DSCF7864.placeholder.png"
+    },
+    {
+      "width": 3120,
+      "height": 986,
+      "path": "./photos/a. landscape/DSCF7864-pano.png",
+      "compressed_path": "./photos/a. landscape/DSCF7864-pano.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/DSCF7864-pano.placeholder.png"
+    },
+    {
+      "width": 1354,
+      "height": 904,
+      "path": "./photos/a. landscape/landscape_5.png",
+      "compressed_path": "./photos/a. landscape/landscape_5.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_5.placeholder.png"
+    },
+    {
+      "width": 1550,
+      "height": 1035,
+      "path": "./photos/a. landscape/landscape_4.png",
+      "compressed_path": "./photos/a. landscape/landscape_4.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_4.placeholder.png"
+    },
+    {
+      "width": 1354,
+      "height": 903,
+      "path": "./photos/a. landscape/landscape_6.png",
+      "compressed_path": "./photos/a. landscape/landscape_6.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_6.placeholder.png"
+    },
+    {
+      "width": 1354,
+      "height": 903,
+      "path": "./photos/a. landscape/landscape_7.png",
+      "compressed_path": "./photos/a. landscape/landscape_7.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_7.placeholder.png"
+    },
+    {
+      "width": 3120,
+      "height": 2080,
+      "path": "./photos/a. landscape/DSCF7838.png",
+      "compressed_path": "./photos/a. landscape/DSCF7838.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/DSCF7838.placeholder.png"
+    },
+    {
+      "width": 1550,
+      "height": 1035,
+      "path": "./photos/a. landscape/landscape_2.png",
+      "compressed_path": "./photos/a. landscape/landscape_2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/landscape_2.placeholder.png"
+    },
+    {
+      "width": 1594,
+      "height": 1064,
+      "path": "./photos/a. landscape/image.png",
+      "compressed_path": "./photos/a. landscape/image.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/a. landscape/image.placeholder.png"
+    }
+  ],
   "b. nature": [
     {
       "width": 1594,
@@ -143,56 +323,6 @@
       "compressed_path": "./photos/b. nature/landscape_1.min.png",
       "compressed": false,
       "placeholder_path": "./photos/b. nature/landscape_1.placeholder.png"
-    }
-  ],
-  "o. products": [
-    {
-      "width": 2428,
-      "height": 1366,
-      "path": "./photos/o. products/DSCF2568.png",
-      "compressed_path": "./photos/o. products/DSCF2568.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/o. products/DSCF2568.placeholder.png"
-    },
-    {
-      "width": 2977,
-      "height": 1985,
-      "path": "./photos/o. products/DSCF2794.png",
-      "compressed_path": "./photos/o. products/DSCF2794.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/o. products/DSCF2794.placeholder.png"
-    },
-    {
-      "width": 2521,
-      "height": 1681,
-      "path": "./photos/o. products/DSCF2796.png",
-      "compressed_path": "./photos/o. products/DSCF2796.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/o. products/DSCF2796.placeholder.png"
-    },
-    {
-      "width": 1139,
-      "height": 1423,
-      "path": "./photos/o. products/rolex_promo_1.png",
-      "compressed_path": "./photos/o. products/rolex_promo_1.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/o. products/rolex_promo_1.placeholder.png"
-    },
-    {
-      "width": 1532,
-      "height": 1914,
-      "path": "./photos/o. products/rolex_promo_2.png",
-      "compressed_path": "./photos/o. products/rolex_promo_2.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/o. products/rolex_promo_2.placeholder.png"
-    },
-    {
-      "width": 1254,
-      "height": 1756,
-      "path": "./photos/o. products/rolex_promo_3.png",
-      "compressed_path": "./photos/o. products/rolex_promo_3.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/o. products/rolex_promo_3.placeholder.png"
     }
   ],
   "c. urban": [
@@ -379,136 +509,6 @@
       "compressed_path": "./photos/c. urban/urban_16.min.png",
       "compressed": false,
       "placeholder_path": "./photos/c. urban/urban_16.placeholder.png"
-    }
-  ],
-  "a. landscape": [
-    {
-      "width": 3120,
-      "height": 2080,
-      "path": "./photos/a. landscape/DSCF7803-2.png",
-      "compressed_path": "./photos/a. landscape/DSCF7803-2.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/DSCF7803-2.placeholder.png"
-    },
-    {
-      "width": 3120,
-      "height": 2080,
-      "path": "./photos/a. landscape/DSCF7830.png",
-      "compressed_path": "./photos/a. landscape/DSCF7830.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/DSCF7830.placeholder.png"
-    },
-    {
-      "width": 1550,
-      "height": 1035,
-      "path": "./photos/a. landscape/landscape_9.png",
-      "compressed_path": "./photos/a. landscape/landscape_9.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/landscape_9.placeholder.png"
-    },
-    {
-      "width": 1550,
-      "height": 1035,
-      "path": "./photos/a. landscape/nature_10.png",
-      "compressed_path": "./photos/a. landscape/nature_10.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/nature_10.placeholder.png"
-    },
-    {
-      "width": 3120,
-      "height": 2080,
-      "path": "./photos/a. landscape/DSCF7868.png",
-      "compressed_path": "./photos/a. landscape/DSCF7868.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/DSCF7868.placeholder.png"
-    },
-    {
-      "width": 3120,
-      "height": 2080,
-      "path": "./photos/a. landscape/DSCF7871.png",
-      "compressed_path": "./photos/a. landscape/DSCF7871.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/DSCF7871.placeholder.png"
-    },
-    {
-      "width": 3120,
-      "height": 2080,
-      "path": "./photos/a. landscape/DSCF7870.png",
-      "compressed_path": "./photos/a. landscape/DSCF7870.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/DSCF7870.placeholder.png"
-    },
-    {
-      "width": 3120,
-      "height": 2080,
-      "path": "./photos/a. landscape/DSCF7864.png",
-      "compressed_path": "./photos/a. landscape/DSCF7864.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/DSCF7864.placeholder.png"
-    },
-    {
-      "width": 3120,
-      "height": 986,
-      "path": "./photos/a. landscape/DSCF7864-pano.png",
-      "compressed_path": "./photos/a. landscape/DSCF7864-pano.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/DSCF7864-pano.placeholder.png"
-    },
-    {
-      "width": 1354,
-      "height": 904,
-      "path": "./photos/a. landscape/landscape_5.png",
-      "compressed_path": "./photos/a. landscape/landscape_5.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/landscape_5.placeholder.png"
-    },
-    {
-      "width": 1550,
-      "height": 1035,
-      "path": "./photos/a. landscape/landscape_4.png",
-      "compressed_path": "./photos/a. landscape/landscape_4.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/landscape_4.placeholder.png"
-    },
-    {
-      "width": 1354,
-      "height": 903,
-      "path": "./photos/a. landscape/landscape_6.png",
-      "compressed_path": "./photos/a. landscape/landscape_6.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/landscape_6.placeholder.png"
-    },
-    {
-      "width": 1354,
-      "height": 903,
-      "path": "./photos/a. landscape/landscape_7.png",
-      "compressed_path": "./photos/a. landscape/landscape_7.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/landscape_7.placeholder.png"
-    },
-    {
-      "width": 3120,
-      "height": 2080,
-      "path": "./photos/a. landscape/DSCF7838.png",
-      "compressed_path": "./photos/a. landscape/DSCF7838.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/DSCF7838.placeholder.png"
-    },
-    {
-      "width": 1550,
-      "height": 1035,
-      "path": "./photos/a. landscape/landscape_2.png",
-      "compressed_path": "./photos/a. landscape/landscape_2.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/landscape_2.placeholder.png"
-    },
-    {
-      "width": 1594,
-      "height": 1064,
-      "path": "./photos/a. landscape/image.png",
-      "compressed_path": "./photos/a. landscape/image.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/a. landscape/image.placeholder.png"
     }
   ]
 }
